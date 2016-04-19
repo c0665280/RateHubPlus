@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">RateHub</string>
+    <string name="welcome">Welcome</string>
+    <string name="hint_email">Enter Email address</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="cancel">Cancel</string>
+    <string name="not_a_user">Not a User Register here!!</string>
+    <string name="skip">Skip</string>
+    <string name="registration_form">New User Register</string>
+
+    <!-- strings for form -->
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_id">Email Id</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="Login">Login</string>
+
+    <string name="welcome_rest">What would you like?</string>
+    <string name="dish_cat">What would you like to see for?</string>
+    <string name="rest_list">List of Restaurants</string>
+    <string name="change_pass">Change Password</string>
+    <string name="delete_acc">Delete Account</string>
+
+    <string name="setting">Setting</string>
+    <string name="user_email">Enter email address</string>
+    <string name="user_password">Enter new password</string>
+    <string name="user_confirm_password">Re-enter Password</string>
+    <string name="user_delete">Delete Account</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
